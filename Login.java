@@ -12,7 +12,6 @@ public class Login extends JFrame implements ActionListener {
     JPasswordField tpassword;
     JButton login, back;
 
-
     Login() {
 
         JLabel username = new JLabel("Username");
